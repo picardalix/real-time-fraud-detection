@@ -119,20 +119,20 @@ Accès : [http://localhost:8501](http://localhost:8501)
 * Compteurs à zéro
 * Tableau vide
 
-![Image manquante – Interface initiale](path/to/image.png)
-![Image manquante – Compteur transactions](path/to/image.png)
+
+![Etat initial](images/image1.png)
+![Etat initial](images/image2.png)
 
 ### Rafraîchissement automatique
 
 * Mise à jour toutes les 5 secondes
 * Dernières fraudes affichées
 
-![Image manquante – Compteur transactions](path/to/image.png)
-![Image manquante – Compteur transactions](path/to/image.png)
+![Compteur transactions](images/image3.png)
 
 Le tableau au bas de la page StreamLit permet de consulter le détail des dernières fraudes détectées : 
-![Image manquante – Compteur transactions](path/to/image.png)
-![Image manquante – Compteur transactions](path/to/image.png)
+![Dernières fraudes](images/image4.png)
+![Recherche fraudes](images/image5.png)
 
 ---
 
@@ -194,6 +194,10 @@ Cependant, dans notre simulation, cette situation est totalement absente. Cela s
    - Les identifiants de marchands sont dispersés
 
 Pour pouvoir vérifier que cette fraude est bien détectée par notre système, nous avons généré de manière artificielle des transactions correspondant à ce cas.
+
+![Fraudes](images/image6.png)
+
 ## Annexes
 
-![Image manquante – Annexes](path/to/image.png)
+![Annexes 1](images/image7.png)
+![Annexes 2](images/image8.png)
